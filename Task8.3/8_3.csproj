@@ -1,18 +1,11 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_8_3</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
- task8-2
-    <Folder Include="Task8_2\" />
-=======
-    <Folder Include="Task8.3\" />
- develop
-  </ItemGroup>
 
 </Project>
